@@ -2,7 +2,7 @@
 <ContentPage
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    x:Class="Spot.Views.TermsConditionPage"
+    x:Class="Company.Views.TermsConditionPage"
     Title="Terms &amp; Conditions"
     BackgroundColor="#00000000">
     <ContentPage.Resources>
